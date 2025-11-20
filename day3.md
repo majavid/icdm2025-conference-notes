@@ -180,6 +180,7 @@ More reflections and photos from ICDM 2025 coming soon—stay tuned! 🚀📊
   </figure>
 
 </div>
+</div>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   const gallery = document.querySelector('.ts-gallery');
