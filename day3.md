@@ -130,103 +130,53 @@ More reflections and photos from ICDM 2025 coming soon—stay tuned! 🚀📊
 <div class="ts-gallery">
 
   <figure class="slide">
-    <img src="20251114_083329.jpg" alt="Panel slide: data mining vs. foundation models.">
-    <figcaption>Round 1 panel – data mining vs. foundation models.</figcaption>
+    <img src="assets/images/day3/20251114_083329.jpg" alt="Opening of the morning plenary at ICDM 2025">
+    <figcaption>Opening session of the morning plenary — the hall begins to fill for the main award and panel segments.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_084117.jpg" alt="Slide asking whether LLMs are the end or evolution of data mining.">
-    <figcaption>“LLMs – End or Evolution of Data Mining?” opening slide.</figcaption>
+    <img src="assets/images/day3/20251114_084117.jpg" alt="Slide showing major ICDM activities in the past 25 years">
+    <figcaption>“Major ICDM Activities in the Past 25 Years” — a retrospective on milestones such as double-blind reviewing and the KAIS journal partnership.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_084642.jpg" alt="Panelists on stage discussing LLMs and data mining.">
-    <figcaption>Panel on LLMs and the future of data mining.</figcaption>
+    <img src="assets/images/day3/20251114_084642.jpg" alt="ICDM 2025 Research Contributions Award slide">
+    <figcaption>Announcement of the 2025 ICDM Research Contributions Award — honoring Prof. Zhi-Hua Zhou (Nanjing University) for seminal ensemble learning work.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_100454.jpg" alt="Slide about scientific discovery and data integrity.">
-    <figcaption>Round 2 – scientific discovery and data integrity.</figcaption>
+    <img src="assets/images/day3/20251114_100454.jpg" alt="Slide announcing the 10-Year Highest-Impact Paper Award">
+    <figcaption>10-Year Highest-Impact Paper Award — *“Fusing Similarity Models with Markov Chains for Sparse Sequential Recommendation.”*</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_100532.jpg" alt="Timeline slide on learning from structured data foundations.">
-    <figcaption>Learning from structured data – foundations timeline.</figcaption>
+    <img src="assets/images/day3/20251114_100532.jpg" alt="Thank-you slide for the Highest-Impact Paper Award">
+    <figcaption>“Thank you for this incredible honor!” — a moment of appreciation from the awardees to the ICDM community.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_100544.jpg" alt="Slide on trustworthiness, fairness, and robustness in structured data.">
-    <figcaption>Learning from structured data – trustworthiness and robustness.</figcaption>
+    <img src="assets/images/day3/20251114_100544.jpg" alt="Ruining He speaking about his work">
+    <figcaption>Ruining He reflecting on a decade of progress — from early recommender systems research to industrial-scale ML at Google DeepMind.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_101207.jpg" alt="Slide on causal and LLM reasoning.">
-    <figcaption>Learning from structured data – causal and LLM reasoning.</figcaption>
+    <img src="assets/images/day3/20251114_101207.jpg" alt="Slide introducing the Tao Li Award presentation">
+    <figcaption>Slide introducing the ICDM 2025 Tao Li Award Presentation — honoring outstanding contributions in data mining.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_101228.jpg" alt="Overview slide of research themes in structured data.">
-    <figcaption>Research theme overview – learning from structured data.</figcaption>
+    <img src="assets/images/day3/20251114_101228.jpg" alt="Jundong Li presenting the Tao Li Award on stage">
+    <figcaption>Jundong Li presenting the ICDM 2025 Tao Li Award — emphasizing mentorship, reproducibility, and responsible AI.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_101341.jpg" alt="Zoomed slide on structured data research directions.">
-    <figcaption>Structured data research directions and highlights.</figcaption>
+    <img src="assets/images/day3/20251114_101341.jpg" alt="Research theme slide on learning from structured data">
+    <figcaption>Research Theme — *Learning from Structured Data*: an integrative view of algorithmic foundations, trustworthiness, reasoning, and applications.</figcaption>
   </figure>
 
   <figure class="slide">
-    <img src="20251114_101345.jpg" alt="Slide summarizing major ICDM activities.">
-    <figcaption>Major ICDM activities over the past 25 years.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_101518.jpg" alt="Slide listing ICDM 2025 award presentations.">
-    <figcaption>ICDM 2025 award presentation overview.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_101746.jpg" alt="Award slide recognizing research contributions.">
-    <figcaption>ICDM 2025 research contributions award slide.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_101905.jpg" alt="Slide for 10-year highest-impact paper award.">
-    <figcaption>10-year highest-impact paper award – sparse sequential recommendation.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_102739.jpg" alt="Thank-you slide from highest-impact paper award talk.">
-    <figcaption>Closing thanks from the highest-impact paper award talk.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_104717.jpg" alt="Speaker reflecting on work from ten years ago.">
-    <figcaption>Looking back ~10 years – personal research journey slide.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_113801.jpg" alt="Tao Li award presentation slide.">
-    <figcaption>Tao Li award presentation at ICDM 2025.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_160313.jpg" alt="Talk on HyHG temporal hypergraph framework.">
-    <figcaption>Talk – HyHG: temporal hypergraph contrastive learning for biomedical hypothesis generation.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_160319.jpg" alt="Talk on attributed hypergraph generation with realistic interplay.">
-    <figcaption>Talk – attributed hypergraph generation with realistic interplay between structure and attributes.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_161033.jpg" alt="Poster session photo in front of attributed hypergraph poster.">
-    <figcaption>Poster session – best paper on attributed hypergraph generation.</figcaption>
-  </figure>
-
-  <figure class="slide">
-    <img src="20251114_163445.jpg" alt="Panel slide on LLMs and evolution of data mining.">
-    <figcaption>Final panel wrap-up – LLMs and the evolution of data mining.</figcaption>
+    <img src="assets/images/day3/20251114_101345.jpg" alt="Detailed research theme table on structured data learning">
+    <figcaption>Detailed structure of the *Learning from Structured Data* theme — linking fairness, robustness, causal reasoning, and LLM reasoning layers.</figcaption>
   </figure>
 
 </div>
