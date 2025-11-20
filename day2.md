@@ -174,7 +174,7 @@ More reflections coming soon. Stay tuned! 🚀📊
   <figure class="slide">
     <img src="assets/images/day2/20251113_100636.jpg"
          alt="Wide shot of keynote room and ICDM 2025 screen">
-    <figcaption><em>Wide shot of the keynote room – plenty of space for thinking and note-taking.</em></figcaption>
+    <figcaption><em>With Professor Jilles Vreeken.</em></figcaption>
   </figure>
 
   <figure class="slide">
