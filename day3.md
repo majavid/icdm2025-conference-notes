@@ -179,7 +179,10 @@ More reflections and photos from ICDM 2025 coming soon—stay tuned! 🚀📊
     <figcaption>Detailed structure of the *Learning from Structured Data* theme — linking fairness, robustness, causal reasoning, and LLM reasoning layers.</figcaption>
   </figure>
 
-</div>
+<div class="controls">
+    <button class="prev">⟨ Prev</button>
+    <button class="next">Next ⟩</button>
+  </div>
 </div>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
