@@ -178,7 +178,57 @@ More reflections and photos from ICDM 2025 coming soon—stay tuned! 🚀📊
     <img src="assets/images/day3/20251114_101345.jpg" alt="Detailed research theme table on structured data learning">
     <figcaption>Detailed structure of the *Learning from Structured Data* theme — linking fairness, robustness, causal reasoning, and LLM reasoning layers.</figcaption>
   </figure>
-  <div class="controls">
+
+  <figure class="slide">
+  <img src="assets/images/day3/20251114_163445.jpg" alt="Round 2 panel slide on scientific discovery and data integrity about LLMs proposing hypotheses.">
+  <figcaption>Round 2 panel – “LLMs can propose hypothesis—but can they defend them?”</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_101518.jpg" alt="Learning from Structured Data foundations timeline slide.">
+  <figcaption>“Learning from Structured Data – Foundations (T1)” overview timeline.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_101746.jpg" alt="Learning from Structured Data trustworthiness slide.">
+  <figcaption>“Learning from Structured Data – Trustworthiness (T2)” highlights.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_101905.jpg" alt="Learning from Structured Data reasoning slide.">
+  <figcaption>“Learning from Structured Data – Reasoning (T3)” with causal and LLM reasoning.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_102739.jpg" alt="Two researchers standing in front of a best paper award poster.">
+  <figcaption>Best Paper Award poster and authors at the poster session.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_104717.jpg" alt="Talk on HyHG temporal hypergraph contrastive learning framework.">
+  <figcaption>Talk – “HyHG: A Temporal Hypergraph Contrastive Learning Framework for Biomedical Hypothesis Generation.”</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_113801.jpg" alt="Attributed hypergraph generation best paper award presentation.">
+  <figcaption>Best Paper Award talk – “Attributed Hypergraph Generation with Realistic Interplay Between Structure and Attributes.”</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_160313.jpg" alt="Slide asking whether LLMs are the end or evolution of data mining.">
+  <figcaption>Panel slide – “LLMs — End or Evolution of Data Mining?”</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_160319.jpg" alt="Wide shot of ICDM panel on LLMs and data mining with all panelists.">
+  <figcaption>ICDM panel on LLMs and the future of data mining.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_161033.jpg" alt="Round 1 panel slide on data mining versus foundation models.">
+  <figcaption>Round 1 panel – “Data Mining vs. Foundation Models: A Disciplinary Crossroads.”</figcaption>
+</figure>
+<div class="controls">
     <button class="prev">⟨ Prev</button>
     <button class="next">Next ⟩</button>
   </div>
