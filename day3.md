@@ -228,6 +228,36 @@ More reflections and photos from ICDM 2025 coming soon—stay tuned! 🚀📊
   <img src="assets/images/day3/20251114_161033.jpg" alt="Round 1 panel slide on data mining versus foundation models.">
   <figcaption>Round 1 panel – “Data Mining vs. Foundation Models: A Disciplinary Crossroads.”</figcaption>
 </figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_174311.jpg" alt="ICDM 2025 panelists posing in front of the conference screen.">
+  <figcaption>ICDM 2025 panelists and organizers in front of the IEEE ICDM 2025 conference screen.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_160319.jpg" alt="Full panel on stage with slide about LLMs and data mining.">
+  <figcaption>Roundtable panel on stage discussing the question “LLMs—End or Evolution of Data Mining?”</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_161033.jpg" alt="Slide introducing Round 1 on data mining vs foundation models.">
+  <figcaption>Round 1: “Data Mining vs. Foundation Models: A Disciplinary Crossroads” – how LLMs blur the boundary between model and data.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_163445.jpg" alt="Slide introducing Round 2 on scientific discovery and data integrity.">
+  <figcaption>Round 2: “Scientific Discovery and Data Integrity” – asking whether LLMs can propose hypotheses and also defend them.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_165808.jpg" alt="Slide introducing Round 3 on the future of data mining in the LLM era.">
+  <figcaption>Round 3: “The Future: Rebuilding Data Mining for the LLM Era” – envisioning the next decade if data mining is reborn.</figcaption>
+</figure>
+
+<figure class="slide">
+  <img src="assets/images/day3/20251114_173336.jpg" alt="Panel with slide asking what data miners should start doing.">
+  <figcaption>Panel discussion slide: “What should data miners start doing before the next wave eats us too?”</figcaption>
+</figure>
 <div class="controls">
     <button class="prev">⟨ Prev</button>
     <button class="next">Next ⟩</button>
