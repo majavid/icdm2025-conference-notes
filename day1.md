@@ -69,7 +69,7 @@ This talk sat right at the intersection of:
 - **Time series**
 - **Continuous optimization**
 
-Very much in the spirit of **NOTEARS (Zheng et al., 2018)** but tailored to temporal structure. This is exactly the kind of direction that connects my own interests in causal modeling and TS.
+Very much in the spirit of **NOTEARS (Zheng et al., 2018)** but tailored to temporal structure. This is one of the kinds of direction that connects my own interests in causal modeling and TS.
 
 ---
 
