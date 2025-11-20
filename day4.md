@@ -158,7 +158,7 @@ Thanks to all the organizers, speakers, and participants for a memorable confere
 
 <figure class="slide">
   <img src="assets/images/day4/20251115_152556.jpg" alt="Large group photo of symposium participants and organizers.">
-  <figcaption>Closing group picture with symposium organizers, mentors, and student researchers.</figcaption>
+  <figcaption>Closing group picture with student researchers and their parents.</figcaption>
 </figure>
 <div class="controls">
     <button class="prev">⟨ Prev</button>
