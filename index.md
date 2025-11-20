@@ -10,6 +10,7 @@ title: ICDM 2025 – Conference Diary
          alt="ICDM 2025 – IEEE International Conference on Data Mining, Washington DC, November 12–15, 2025">
   </a>
   <figcaption>
+    
     ICDM 2025 – IEEE International Conference on Data Mining, Washington, DC (November 12–15, 2025).
   </figcaption>
 </figure>
