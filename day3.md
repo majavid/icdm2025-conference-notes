@@ -166,7 +166,7 @@ More reflections and photos from ICDM 2025 coming soon—stay tuned! 🚀📊
 
   <figure class="slide">
     <img src="assets/images/day3/20251114_101228.jpg" alt="Jundong Li presenting the Tao Li Award on stage">
-    <figcaption>Jundong Li presenting the ICDM 2025 Tao Li Award — emphasizing mentorship, reproducibility, and responsible AI.</figcaption>
+    <figcaption>Jundong Li presenting the ICDM 2025 Tao Li Award.</figcaption>
   </figure>
 
   <figure class="slide">
