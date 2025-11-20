@@ -130,7 +130,7 @@ More reflections coming soon. Stay tuned! 🚀📊
   </figure>
 
   <figure class="slide">
-    <img src="assets/images/day2/We iDing-Jilles VreekenProgramChairs.jpg"
+    <img src="assets/images/day2/Wei Ding-Jilles VreekenProgramChairs.jpg"
          alt="Wei Ding and Jilles Vreeken as Program Chairs">
     <figcaption><em>Prof. Wei Ding and Prof. Jilles Vreeken on stage as ICDM 2025 Program Chairs.</em></figcaption>
   </figure>
